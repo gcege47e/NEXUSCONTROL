@@ -1,0 +1,41 @@
+NEXUS CONTROL – Mobile & Windows Controller
+NEXUS CONTROL allows you to turn your smartphone into a powerful controller for your Windows PC. With this app, you can control games, simulate mouse movements, and send keyboard commands from your mobile device.
+Important Notes:
+Race Mode requires the phone to be held vertically with the left side up.
+Your PC must have the NEXUS CONTROL WINDOW receiver installed to communicate with this app. Make sure to download and install it.
+Connect your phone and PC over the same Wi-Fi network for proper functionality.
+Features:
+Customizable buttons for keyboard input.
+Touchpad for precise mouse control.
+Race Mode with accelerometer-based steering.
+Multi-client support: multiple phones can control the same PC simultaneously.
+Save and load configuration easily with JSON files.
+Real-time connection status indicator.
+Setup Instructions:
+Install NEXUS CONTROL WINDOW on your Windows PC.
+Open the app on your phone and enter the pairing code displayed on the Windows receiver.
+Use the customizable buttons and touchpad to control your games.
+Keep the phone in vertical position (left side up) during Race Mode for correct accelerometer functionality.
+Enjoy full control of your PC directly from your mobile device!
+
+------------------
+
+NEXUS CONTROL – کنترل موبایل و ویندوز
+برنامه NEXUS CONTROL به شما امکان می‌دهد تا گوشی خود را به یک کنترلر قدرتمند برای کامپیوتر ویندوزی تبدیل کنید. با این برنامه می‌توانید بازی‌ها را کنترل کنید، حرکت موس را شبیه‌سازی کنید و فرمان‌های کیبورد را از طریق گوشی ارسال کنید.
+نکات مهم:
+حالت Race Mode نیازمند نگه داشتن گوشی در حالت عمودی با سمت چپ رو به بالا است.
+برای اتصال به برنامه، کامپیوتر شما باید نرم‌افزار NEXUS CONTROL WINDOW را نصب داشته باشد. حتماً آن را دانلود و نصب کنید.
+برای عملکرد صحیح، گوشی و کامپیوتر باید به یک شبکه وای‌فای مشترک متصل باشند.
+ویژگی‌ها:
+دکمه‌های قابل شخصی‌سازی برای ورودی کیبورد.
+تاچ‌پد برای کنترل دقیق موس.
+حالت Race Mode با امکان فرمان‌دهی با شتاب‌سنج (Accelerometer).
+پشتیبانی از چند دستگاه: چند گوشی می‌توانند همزمان یک کامپیوتر را کنترل کنند.
+ذخیره و بارگذاری تنظیمات به راحتی با فایل‌های JSON.
+نمایش وضعیت اتصال در زمان واقعی.
+دستورالعمل راه‌اندازی:
+نرم‌افزار NEXUS CONTROL WINDOW را روی کامپیوتر ویندوزی خود نصب کنید.
+برنامه را روی گوشی باز کنید و کد جفت‌سازی (Pairing Code) نمایش داده شده در ویندوز را وارد کنید.
+با استفاده از دکمه‌های قابل شخصی‌سازی و تاچ‌پد، بازی‌ها را کنترل کنید.
+در حالت Race Mode گوشی را عمودی و با سمت چپ رو به بالا نگه دارید تا شتاب‌سنج به درستی کار کند.
+از کنترل کامل کامپیوتر خود با گوشی لذت ببرید!
